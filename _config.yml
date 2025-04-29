@@ -45,9 +45,11 @@ social:
     url: https://github.com/peterarthurx07
 
 # Email Address (make sure to include "mailto:" before your email!)
-email: mailto:peter.arthurx07@gmail.com
+email:
+  email-url: mailto:peter.arthurx07@gmail.com
 
-email-url: https://mail.google.com/mail/u/0/?pli=1#inbox 
+
+
 
 # Postal address (add as many lines as necessary)
 location:
